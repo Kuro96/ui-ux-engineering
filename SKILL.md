@@ -1,6 +1,6 @@
 ---
-name: universal-ui-ux-engineering
-description: Apply these rules when you create, change, or review user interface (UI) code. This skill stops the direct output of backend data structures to the screen and keeps the layout clear.
+name: ui-ux-engineering
+description: Apply UI and UX engineering rules when creating, changing, or reviewing interface code. Keep content human-readable, layouts clear, and styling aligned with the host theme.
 ---
 
 # UI and UX Engineering Rules
